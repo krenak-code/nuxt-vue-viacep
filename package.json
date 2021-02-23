@@ -1,6 +1,6 @@
 {
-  "name": "@nuxt/vue-viacep",
-  "version": "0.0.3",
+  "name": "nuxt-vue-viacep",
+  "version": "0.0.4",
   "description": "Nuxt plugin for vue-viacep package",
   "files": [
     "lib"
